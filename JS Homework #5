@@ -1,0 +1,4 @@
+function timeAdder (value1, value2) {
+  console.log(value1 + value2,);
+}
+timeAdder (25, 2,);
