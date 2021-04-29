@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @joepars
 - 👀 I’m interested in programming
-- 🌱 I’m currently learning Javascript (havung comopleted a HTML / CSS fundamentals course)
+- 🌱 I’m currently learning Javascript (having comopleted a HTML / CSS fundamentals course)
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
